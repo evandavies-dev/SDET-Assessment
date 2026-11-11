@@ -14,7 +14,7 @@ I have done my best to cover all basic requests (GET, POST, PUT, PATCH, and DELE
 
 ## Execution Instructions
 
-I used the windows program Git Bash (https://gitforwindows.org/) because I am primarilly used to using a bash environment, but I have provided instructions for both Git Bash, as well as Powershell if that is more convenient.
+I used the windows program Git Bash (https://gitforwindows.org/) because I am primarily used to using a bash environment, but I have provided instructions for both Git Bash, as well as Powershell if that is more convenient.
 The test results will automatically be shown at the end of the test run.
 
 ### Git Bash Execution Instructions
