@@ -40,7 +40,7 @@ pytest
 python -m venv .venv
 
 3. Activate the virtual environment with the following command:
-.\.venv\Scripts\Activate.ps1
+.\\.venv\Scripts\Activate.ps1
 
 4. Install dependencies with the following command:
 python -m pip install -r requirements.txt
